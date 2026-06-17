@@ -89,7 +89,7 @@ int main() {
                          << " | Base: " << listaEmpleados[i].sueldoBase 
                          << " | Extras: " << totalHorasExtras 
                          << " | Adelanto: -" << listaEmpleados[i].adelanto
-                         << " | Adelanto: -" << listaEmpleados[i].provista  
+                         << " | Provista: -" << listaEmpleados[i].provista  
                          << " | Total a Pagar: " << sueldoNeto << "\n";
                 }
             }
